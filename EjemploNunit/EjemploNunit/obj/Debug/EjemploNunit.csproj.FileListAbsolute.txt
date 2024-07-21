@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\bin\Debug\EjemploNunit.exe.config
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\bin\Debug\EjemploNunit.exe
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\bin\Debug\EjemploNunit.pdb
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\obj\Debug\EjemploNunit.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\obj\Debug\EjemploNunit.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\obj\Debug\EjemploNunit.exe
+C:\Users\josep\OneDrive\Documents\Ejemplo NUnit\EjemploNunit\EjemploNunit\EjemploNunit\obj\Debug\EjemploNunit.pdb
