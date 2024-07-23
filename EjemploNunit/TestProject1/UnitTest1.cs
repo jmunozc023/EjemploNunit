@@ -21,7 +21,7 @@ namespace TestProject1
             {
                 var c = new Base();
                 var r = c.CreaMundo(1);
-                Assert.AreEqual("Mundo Magico", r);
+                Assert.AreEqual(r, "Mundo Magic");
 
             }
             public void CrearMundo2()
