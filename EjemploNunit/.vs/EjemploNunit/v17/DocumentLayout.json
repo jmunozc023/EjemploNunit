@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F3664B28-552E-43B5-BB08-7AA2B8786450}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1C759A-7566-4EC4-BB5D-C6003A387D52}|EjemploNunit\\EjemploNunit.csproj|c:\\users\\josep\\onedrive\\documents\\ejemplo nunit\\ejemplonunit\\ejemplonunit\\ejemplonunit\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA1C759A-7566-4EC4-BB5D-C6003A387D52}|EjemploNunit\\EjemploNunit.csproj|C:\\Users\\josep\\OneDrive\\Documents\\Ejemplo NUnit\\EjemploNunit\\EjemploNunit\\ejemplonunit\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1C759A-7566-4EC4-BB5D-C6003A387D52}|EjemploNunit\\EjemploNunit.csproj|solutionrelative:ejemplonunit\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{F3664B28-552E-43B5-BB08-7AA2B8786450}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1C759A-7566-4EC4-BB5D-C6003A387D52}|EjemploNunit\\EjemploNunit.csproj|c:\\users\\josep\\onedrive\\documents\\ejemplo nunit\\ejemplonunit\\ejemplonunit\\ejemplonunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA1C759A-7566-4EC4-BB5D-C6003A387D52}|EjemploNunit\\EjemploNunit.csproj|C:\\Users\\josep\\OneDrive\\Documents\\Ejemplo NUnit\\EjemploNunit\\EjemploNunit\\ejemplonunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1C759A-7566-4EC4-BB5D-C6003A387D52}|EjemploNunit\\EjemploNunit.csproj|solutionrelative:ejemplonunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TestProject1",
+              "Title": "TestProject1.csproj",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\Ejemplo NUnit\\EjemploNunit\\EjemploNunit\\TestProject1\\TestProject1.csproj",
               "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\Ejemplo NUnit\\EjemploNunit\\EjemploNunit\\TestProject1\\TestProject1.csproj",
               "RelativeToolTip": "TestProject1\\TestProject1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T05:27:46.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T05:27:46.398Z"
             },
             {
               "$type": "Document",
@@ -53,7 +48,7 @@
               "RelativeDocumentMoniker": "EjemploNunit\\Base.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\Ejemplo NUnit\\EjemploNunit\\EjemploNunit\\EjemploNunit\\Base.cs",
               "RelativeToolTip": "EjemploNunit\\Base.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T06:10:16.994Z",
               "EditorCaption": ""
@@ -66,7 +61,7 @@
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\Ejemplo NUnit\\EjemploNunit\\EjemploNunit\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAzAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T05:26:08.885Z",
               "EditorCaption": ""
@@ -81,8 +76,7 @@
               "RelativeToolTip": "EjemploNunit\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T05:15:22.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T05:15:22.484Z"
             }
           ]
         }
